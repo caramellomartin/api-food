@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "color": "#ff0000",
+    "icon": "icofont-apple"
+  },
+  {
+    "id": 2,
+    "name": "Orange",
+    "color": "#ff8000",
+    "icon": "icofont-orange"
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "color": "#ffff80",
+    "icon": "icofont-pizza"
+  },
+  {
+    "id": 4,
+    "name": "beer",
+    "color": "#d1d1ad",
+    "icon": "icofont-beer"
+  },
+  {
+    "id": 5,
+    "name": "beer",
+    "color": "#d1d1ad",
+    "icon": "icofont-beer"
+  },
+  {
+    "id": 6,
+    "name": "bread",
+    "color": "#000000",
+    "icon": "icofont-bread"
+  },
+  {
+    "id": 7,
+    "name": "Burger",
+    "color": "#ff5c00",
+    "icon": "icofont-burger"
+  },
+  {
+    "id": 8,
+    "name": "Pear",
+    "color": "#d2ff00",
+    "icon": "icofont-pear"
+  }
+]
